@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "ScrollText": "github:makecode-extensions/scrolltext#v1.4.0"
     },
     "files": [
         "main.blocks",
