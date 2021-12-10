@@ -15,5 +15,5 @@ basic.forever(function () {
     if (flashing == true) {
         led.toggle(randint(0, 4), randint(0, 4))
     }
-    basic.pause(50)
+    basic.pause(5)
 })
